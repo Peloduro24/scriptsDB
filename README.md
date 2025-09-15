@@ -1,0 +1,2 @@
+# scriptsDB
+ para bd mysql
